@@ -6,7 +6,7 @@
         <video
           id="video1"
           class="video"
-          
+          autoplay
           loop
           poster="https://sf3-ttcdn-tos.pstatp.com/obj/mp/welcome-video-poster-v2.png"
         >
